@@ -1,0 +1,2 @@
+module RestAssuredProject {
+}
